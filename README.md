@@ -1,10 +1,10 @@
-# Jessica
+# README Generator
   
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
   
   ## Description
   
-   testing
+   This is a JavaScript project that uses no
   
   ## Table of Contents 
   
@@ -18,23 +18,25 @@
 
   ## Installation
   
-  lol
+  npm i
   
   ## Usage
   
-  lol
+  N/A
   
   ## License
   
-  undefined
+    [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+       https://opensource.org/licenses/EPL-1.0
+       
   
   ## Contribution
   
-  lol
+  N/A
   
   ## Tests
   
-  lsdfk
+  N/A
   
   ## Questions
   If you have any questions please use my information below to contact me. 
