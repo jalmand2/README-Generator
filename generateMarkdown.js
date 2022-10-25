@@ -28,55 +28,40 @@ function renderLicenseBadge(license) {
     } else {
       return `
   ## License
-  This project was created using the ${renderLicenseLink(license)} license.
+  This project was created using the ${renderLicenseLink(license)}.
   `
     }
   }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-return `# ${data.title}
-  
-    ${renderLicenseBadge(data.license)}
-  
-    ## Description
-  
-    ${data.description}
-  
-    ## Table of Contents 
-  
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
-    - [Contribution](#contribution)
-    - [Tests](#tests)
-    - [Questions](#questions)
-
-    ## Installation
-  
-    ${data.installation}
-  
-    ## Usage
-  
-    ${data.usage}
-  
-    ${renderLicenseSection(data.license)}
-  
-    ## Contribution
-  
-    ${data.contribute}
-  
-    ## Tests
-  
-    ${data.test}
-  
-    ## Questions
-
-    If you have any questions please use my information below to contact me. 
-    * GitHub: [${data.github}](https://github.com/${data.github})
-    * E-mail: ${data.email}
-    `
+    return `
+${renderLicenseBadge(data.license)}
+# ${data.title}
+## Description
+${data.description}
+## Table of Contents 
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Credits](#credits)
+ - [License](#license)
+ - [Contribution](#contribution)
+ - [Tests](#tests)
+ - [Questions](#questions)
+## Installation
+${data.installation}
+## Usage
+${data.usage}
+${renderLicenseSection(data.license)}
+## Contribution
+${data.contribute}
+## Tests
+${data.test}
+## Questions
+If you have any questions please use my information below to contact me. 
+* GitHub: [${data.github}](https://github.com/${data.github})
+* E-mail: ${data.email}
+    `;
 }
 
 module.exports = generateMarkdown;
