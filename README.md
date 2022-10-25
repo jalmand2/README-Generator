@@ -1,44 +1,47 @@
-# README Generator
+# sdf
   
-    [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+    ![License Badge](https://img.shields.io/badge/license-MozillaPublicLicense2.0-blue)
   
-  ## Description
+    ## Description
   
-   This is a JavaScript project that uses no
+    asdf
   
-  ## Table of Contents 
+    ## Table of Contents 
   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [Questions](#questions)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [License](#license)
+    - [Contribution](#contribution)
+    - [Tests](#tests)
+    - [Questions](#questions)
 
-  ## Installation
+    ## Installation
   
-  npm i
+    asdf
   
-  ## Usage
+    ## Usage
   
-  N/A
+    asdf
   
+    ## License
+  
+    
   ## License
+  This project was created using the [Mozilla Public License 2.0](https://opensource.org/licenses/Mozilla-Public-License-2.0) license.
   
-    [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
-       https://opensource.org/licenses/EPL-1.0
-       
   
-  ## Contribution
+    ## Contribution
   
-  N/A
+    asdf
   
-  ## Tests
+    ## Tests
   
-  N/A
+    asdf
   
-  ## Questions
-  If you have any questions please use my information below to contact me. 
-  * GitHub: [jalmand2](https://github.com/jalmand2)
-  * E-mail: jlalmand27@gmail.com
+    ## Questions
+
+    If you have any questions please use my information below to contact me. 
+    * GitHub: [asdf](https://github.com/asdf)
+    * E-mail: asdf
+    
